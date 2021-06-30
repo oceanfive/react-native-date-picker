@@ -1,6 +1,0 @@
-use_frameworks!
-target 'react-native-date-picker_Tests' do
-  pod 'react-native-date-picker', :path => '../'
-  
-  
-end
